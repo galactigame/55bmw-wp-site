@@ -72,7 +72,7 @@ If a sentence does not help with one of those questions, it probably does not ne
 
 ## Live Reference
 
-The live preview for this project is [55bmw com](https://55bmw.site/).
+The live preview for this project is [55bmw](https://55bmw.site/).
 
 Use this page when checking whether the repository notes still match the live site. It is especially useful for reviewing page structure, access-related wording, mobile layout behavior, and metadata alignment.
 
